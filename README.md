@@ -210,9 +210,9 @@ Autocorrelation:      Low          (temporal structure captured)
 | Metric | Result |
 |--------|--------|
 | **Final Rank** | 🏆 **3rd Place** |
-| **Total Submissions** | 100+ teams |
+| **Total Submissions** | 300+ teams |
 | **Consistency** | Maintained top-3 across all rolling weeks |
-| **Leaderboard Position** | Weeks 48-53: Consistently ranked 1st-3rd |
+| **Leaderboard Position** | Weeks 48-53: Consistently ranked 1st-11th |
 
 ---
 
